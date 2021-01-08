@@ -1,0 +1,95 @@
+/*@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@100;400;800&display=swap');*/
+.base-background-color {
+    background: #FF9C00;
+}
+.header-block {
+    background-image: url("images/layer_1_0.png");
+    background-repeat: no-repeat;
+    background-size: 500px;
+    background-position: right;
+}
+.top-logo {
+    margin-top: 20px;
+}
+.top-slogan {
+    margin-top: 30px;
+}
+.top-slogan h2 {
+    font-family: "M PLUS 1p";
+    font-weight: bold !important;
+    font-size: 45px;
+    color: #EEC819;
+}
+.top-slogan h3 {
+    font-family: "M PLUS 1p";
+    font-weight: bold !important;
+    font-size: 20px;
+    color: #DC7800;
+    margin-bottom: 15px;
+}
+.btn-pa-primary {
+    background-color: #EA4007 !important;
+    border-color: #e53b00 !important;
+    padding: 7px 20px !important;
+}
+.btn-pa-primary:hover {
+    background-color: #c33806 !important;
+}
+.btn-pa-overlay {
+    background-color: #eec819 !important;
+    border-color: #eec819 !important;
+    padding: 7px 20px !important;
+    color: #DC7800 !important;
+}
+.btn-pa-overlay.bottom-menu {
+    padding: 7px 20px !important;
+}
+.btn-pa-overlay:hover {
+    background-color: #eabd00 !important;
+}
+.btn-pa-light {
+    background-color: #FF9C00 !important;
+    border-color: #ffffff !important;
+    color: #ffffff !important;
+    padding: 6px 30px !important;
+    border-width: 2px !important;
+}
+.btn-pa-light:hover {
+    background-color: #DC7800 !important;
+}
+.top-menu-row {
+    margin-top: 40px;
+    margin-bottom: 15px;
+}
+.btn-top-menu {
+    margin-right: 20px;
+}
+.btn-bottom-menu {
+    margin-left: 20px;
+}
+.footer-block {
+    background-image: url("images/layer_41.png");
+    background-repeat: no-repeat;
+    background-size: 230px;
+    background-position: left;
+}
+.bottom-info-text {
+    color: #eec819;
+    font-family: "M PLUS 1p";
+    font-weight: bold;
+    font-size: 20px;
+}
+.bottom-menu-container {
+    margin-top: 15px;
+    margin-bottom: 40px;
+}
+.socials-block {
+    margin-top: 100px;
+}
+.socials-block .soc-element {
+    margin-left: 17px;
+}
+.socials-block .soc-element img {
+    width: 60px;
+    height: 60px;
+}
